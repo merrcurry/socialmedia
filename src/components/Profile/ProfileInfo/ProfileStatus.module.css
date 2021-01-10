@@ -1,0 +1,7 @@
+.status {
+    margin-top: 10px;
+    padding: 5px;
+
+    border: 1px dashed gray;
+    border-radius: 5px;
+}

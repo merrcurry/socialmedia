@@ -1,0 +1,10 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+
+    margin: 10px;
+}
+
+.addMessageForm {
+    margin-top: 20px;
+}

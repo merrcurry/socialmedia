@@ -1,0 +1,9 @@
+.profile_info {
+    display: flex;
+
+    padding: 50px;
+}
+
+.main_info {
+    margin-right: 100px;
+}

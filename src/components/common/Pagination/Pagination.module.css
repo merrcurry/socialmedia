@@ -1,0 +1,22 @@
+.pagination {
+   margin: 20px 0;
+   text-align: center;
+}
+
+.pagination_page {
+   background: #4add05;
+
+   padding: 10px 20px 10px 20px;
+   margin: 5px;
+
+   cursor: pointer;
+}
+
+.selected_page {
+   background: #336707;
+
+   padding: 10px 20px 10px 20px;
+   margin: 5px;
+
+   font-weight: 700;
+}

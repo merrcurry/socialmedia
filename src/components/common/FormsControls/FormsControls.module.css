@@ -1,0 +1,15 @@
+.textarea:focus {
+   outline: 3px solid #726a6a;
+   outline-offset: 2px;
+}
+
+.textarea_error:focus {
+   outline: 3px solid #b05151;
+   outline-offset: 2px;
+}
+
+.error_message {
+   color: #b53535;
+
+   margin-bottom: 10px;
+}

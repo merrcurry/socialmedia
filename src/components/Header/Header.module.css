@@ -1,0 +1,23 @@
+.header {
+    grid-area: h;
+
+    background-color: #8ff171;
+
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.header img {
+    width: 30px;
+
+    margin: 15px;
+}
+
+.login {
+    float: right;
+    margin: 18px;
+}
+
+.login a {
+    text-decoration: none;
+}
